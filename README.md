@@ -1,19 +1,6 @@
-# 🎓 CODSOFT Artificial Intelligence Internship
+# 🎓 Python Programs
 
-This is a **CodSoft AI Internship Repository**.
-This repository contains all the projects completed as part of the internship with **CodSoft**.
-
----
-
-## 🚀 Tasks Overview
-
-| Task No | Title | Description |
-|----------|--------|-------------|
-| 1 | Chatbot with Rule-Based Responses | A simple chatbot using if–else pattern matching. |
-| 2 | Tic-Tac-Toe AI | An unbeatable AI player using Minimax algorithm. |
-| 3 | Image Captioning | Generate captions using CNN and Transformer models. |
-| 4 | Recommendation System | Suggests movies/products using collaborative filtering. |
-| 5 | Face Detection & Recognition | Detects and recognizes faces using OpenCV and deep learning. |
+This repository contains all the proagrams that are helpful to learn AI&ML.
 
 ---
 
@@ -28,8 +15,8 @@ This repository contains all the projects completed as part of the internship wi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ysathyasai/CODSOFT.git
-   cd CODSOFT
+   git clone https://github.com/ysathyasai/Python-Learning.git
+   cd Python-Learning
    ```
 
 2. Install dependencies for the appropriate project:
@@ -47,7 +34,7 @@ This repository contains all the projects completed as part of the internship wi
 ## 📁 Folder Structure
 
 ```
-CODSOFT/
+Python-Learning/
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
